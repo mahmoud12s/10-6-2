@@ -1,0 +1,445 @@
+.parent-sec1{
+    background-image: url(asest/blue_bg.png);
+    height: 1000px;
+}
+.img1{
+    width: 100px;
+    /* height: 100px; */
+    border-radius: 50%;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 100px;
+    top: 50px;
+}
+.nav1{
+color: aqua;
+border: none;
+
+}
+.home{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    font-size: 20px;
+    left: 190px;
+    top: 10px;
+    text-decoration: none;
+  color: black;
+}
+.about-us{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    font-size: 20px;
+    left: 270px;
+   bottom: 13px;
+   text-decoration: none;
+ color: black;
+}
+
+.services{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    font-size: 20px;
+    left: 370px;
+    bottom: 34px;
+  color: black;
+    text-decoration: none;
+}
+.help-{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    font-size: 20px;
+    left: 470px;
+    bottom: 54px;
+    text-decoration: none;
+  color: black;
+}
+
+.line{  
+    width: 50px;
+    border: solidwhite;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+   right: 535px;
+   bottom: 50px;
+}
+
+.flex-end1{
+height: 800px;
+display: flex;
+justify-content: flex-end;
+position: relative;
+bottom: 200px;
+
+}
+
+.flex-end2{
+    height: 600px;
+    display: flex;
+justify-content: flex-end;
+position: relative;
+bottom: 950px;
+right: 240px;
+
+}
+
+.flex-end3{
+   
+    height: 300px;
+    display: flex;
+justify-content: flex-end;
+position: relative;
+bottom: 1150px;
+right: 200px;
+
+
+}
+
+.flex-end4{
+
+    height: 300px;
+    display: flex;
+justify-content: flex-end;
+position: relative;
+bottom: 1500px;
+right: 200px;
+}
+
+
+.flex-start1{
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  left: 130px;
+}
+.flex-start2{
+  height: 150px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+   left: 30px;
+    bottom: 540px;
+}
+
+ .p1{
+  /* /* color: #0000; */
+    display: flex;
+    justify-content: flex-start;
+    position: relative; 
+    left: 35px;
+     bottom: 530px;
+    font-size: 20px;
+   
+} 
+.p2{
+  color: rgb(18, 17, 17);
+    display: flex;
+    justify-content: flex-start;
+    position: relative; 
+    left: 15px;
+     bottom: 540px;
+    font-size: 15px;
+}
+
+.flex-start4{
+  height: 150px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 630px;
+    bottom: 600px;
+    
+
+}
+.p7{
+  font-size: 40px;
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  left: 100px;
+  bottom: 1900px;
+}
+.p8{
+  font-size: 40px;
+  color: rgb(162, 12, 162);
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  left: 330px;
+  bottom: 1985px;
+}
+
+.p9{
+  font-size: 40px;
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  left: 470px;
+  bottom: 2070px;
+}
+.p3{
+  color: rgb(18, 17, 17);
+    display: flex;
+    justify-content: flex-start;
+    position: relative; 
+    left: 650px;
+     bottom: 600px;
+    font-size: 20px;
+}
+.p4{
+  color: rgb(18, 17, 17);
+    display: flex;
+    justify-content: flex-start;
+    position: relative; 
+    left: 600px;
+     bottom: 600px;
+    font-size: 15px;
+}
+
+.flex-start6{
+  height: 150px;
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  left: 1050px;
+  bottom: 550px;
+  
+}
+
+.p5{
+  color: rgb(18, 17, 17);
+  display: flex;
+  justify-content: flex-start;
+  position: relative; 
+ left: 1150px;
+ bottom: 550px;
+  font-size: 20px;
+}
+.p6{
+  color: rgb(18, 17, 17);
+  display: flex;
+  justify-content: flex-start;
+  position: relative; 
+ left: 1050px;
+ bottom: 550px;
+  font-size: 15px;
+}
+
+
+.flex-start9{
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  bottom: 1000px;
+}
+
+.p10{
+  color: white;
+  font-size: 20px;
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  bottom: 1290px;
+  left: 130px;
+}
+.p11{
+  color: white;
+  font-size: 50px;
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  bottom: 1330px;
+  left: 100px;
+}
+.flex-start11{
+  height: 250px;
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  bottom: 1000px;
+  left: 250px;
+}
+.flex-start12{
+  height: 400px;
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  bottom: 1390px;
+  left: 540px;
+}
+.flex-start13{
+  height: 250px;
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  bottom: 1600px;
+  left: 1100px;
+}
+
+.p12{
+  font-size: 20px;
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  bottom: 1700px;
+  left: 690px;
+}
+.p13{
+  font-size: 15px;
+  color: black;
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  bottom: 1700px;
+  left: 690px;
+}
+.flex-start15{
+height: 800px;
+right: 50px;
+
+display: flex;
+justify-content: flex-start;
+position: relative;
+bottom: 1690px;
+}
+
+.flex-start16{
+  height: 500px;
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  bottom: 2360px;
+  left: 630px;
+}
+/* .flex-start17{
+  
+  width: 1000px;
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  bottom: 2530px;
+  left: 100px;
+}
+.p14{
+  
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  bottom: 30px;
+} */
+
+
+.button-container {
+  display: flex;
+  gap: 20px;
+}
+
+.store-button {
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  bottom: 2600px;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+  padding: 10px 15px;
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  
+}
+
+.store-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+}
+
+.store-button img.icon {
+  width: 30px;
+  height: 30px;
+}
+
+.store-button span {
+  font-size: 14px;
+  color: #333;
+}
+
+.store-button strong {
+  font-size: 16px;
+  color: #000;
+}
+.flex-start17{
+  color: white;
+  /* height: 50px; */
+  font-size: 40px;
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  bottom: 2570px;
+  left: 50px;
+}
+.flex-start18{
+ color: white;
+  /* height: 50px; */
+  font-size: 40px;
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  bottom: 2610px;
+  left: 100px;
+}
+.p19{
+  color:white;
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  bottom: 2605px;
+  left: 50px;
+}
+.p15{
+  color:white;
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  bottom: 2635px;
+  left: 260px;
+}
+.p16{
+  color: white;
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  bottom: 2668px;
+  left: 130px;
+}
+.p17{
+  
+  color:white;
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  bottom: 2698px;
+  left: 380px;
+}
+.flex-start20 button{
+  border-radius: 70%;
+  width: 60px;
+  height: 40px;
+  color: #ccc;
+background-color: white;
+}
+.flex-start20{
+display: flex;
+justify-content: flex-start;
+position: relative;
+bottom: 2450px;
+left: 1400px;
+
+}
